@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{31431E23-B9D3-475A-828B-C17DCDEA8FBA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Yogen", "Yogen\Yogen.vcxproj", "{991C7651-533B-49E3-9AE5-A36A64130D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991C7651-533B-49E3-9AE5-A36A64130D70}.Debug|x64.ActiveCfg = Debug|x64
+		{991C7651-533B-49E3-9AE5-A36A64130D70}.Debug|x64.Build.0 = Debug|x64
+		{991C7651-533B-49E3-9AE5-A36A64130D70}.Release|x64.ActiveCfg = Release|x64
+		{991C7651-533B-49E3-9AE5-A36A64130D70}.Release|x64.Build.0 = Release|x64
+		{31431E23-B9D3-475A-828B-C17DCDEA8FBA}.Debug|x64.ActiveCfg = Debug|x64
+		{31431E23-B9D3-475A-828B-C17DCDEA8FBA}.Debug|x64.Build.0 = Debug|x64
+		{31431E23-B9D3-475A-828B-C17DCDEA8FBA}.Release|x64.ActiveCfg = Release|x64
+		{31431E23-B9D3-475A-828B-C17DCDEA8FBA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C80B193-C8F9-400F-8A04-2E5F0CDAB7D8}
+	EndGlobalSection
+EndGlobal
