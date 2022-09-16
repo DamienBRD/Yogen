@@ -1,0 +1,3 @@
+[submodule "Yogen/vendor/spdlog"]
+	path = Yogen/vendor/spdlog
+	url = https://github.com/gabime/spdlog
